@@ -50,3 +50,6 @@
 <a href="https://github.com/apple/swift">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" height="40" >
 </a>
+<a href="https://github.com/apple/swift">
+    <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Swift" height="40" >
+</a>
