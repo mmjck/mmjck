@@ -22,7 +22,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Front-end Developer at **Anyee**.
+- :computer: &nbsp; I'm currently working as a Mobile Developer at **Saks**.
 - 🎓 &nbsp; Studying Software Engineering at ICOMP/UFAM.
 
 ---
