@@ -23,25 +23,16 @@
 #### 👨🏻‍💻 &nbsp; About me
 
 - :computer: &nbsp; I'm currently working as a Mobile Developer at **Saks**.
-- 🎓 &nbsp; Studying Software Engineering at ICOMP/UFAM.
+- 🎓 &nbsp; Graduate in Software Engineering at UFAM (Federal University of Amazonas).
 
 ---
 
 #### 🛠 &nbsp; Languages and Tools:
-
-<code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://flutter.dev" ><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
----
-
-#### 🌱 &nbsp; I’m currently learning
 
 
 <a href="https://github.com/apple/swift">
