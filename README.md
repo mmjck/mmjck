@@ -22,7 +22,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Mobile Developer at **Saks**.
+- :computer: &nbsp;** Mobile Developer**.
 - 🎓 &nbsp; Graduate in Software Engineering at UFAM (Federal University of Amazonas).
 
 ---
