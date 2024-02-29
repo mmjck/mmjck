@@ -22,7 +22,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp;** Mobile Developer**.
+- :computer: &nbsp; **Mobile Developer**.
 - 🎓 &nbsp; Graduate in Software Engineering at UFAM (Federal University of Amazonas).
 
 ---
