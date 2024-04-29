@@ -22,7 +22,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; **Mobile Developer**.
+- :computer: &nbsp; **Software Engineer**.
 - 🎓 &nbsp; Graduate in Software Engineering at UFAM (Federal University of Amazonas).
 
 ---
@@ -38,4 +38,12 @@
 <a href="https://github.com/apple/swift">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" height="40" >
 </a>
+
+
+<a href="https://soliditylang.org/">
+    <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" >
+</a>
+
+
+
 
