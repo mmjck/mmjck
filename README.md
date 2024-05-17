@@ -14,7 +14,10 @@
     </a>
     <a target="_blank" href="mailto:msantos@icompufam.edu.br">
         <img alt="Gmail"  src="https://img.shields.io/badge/Email-msantos@icomp.ufam.edu.br-red?style=flat-square&logo=gmail">
-    </a>    
+    </a>
+
+  
+  
 </p>
 </br>
 
@@ -34,15 +37,15 @@
 <code><a href="https://flutter.dev" ><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" height="40" /> </code>
 
-<a href="https://github.com/apple/swift">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" height="40" >
-</a>
+<code> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" /></code>
 
 
-<a href="https://soliditylang.org/">
-    <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" >
-</a>
+<code><img  height="100" alt="Java"  src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
+<code><img  height="100" alt="spring boot"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png"></code>
+
 
 
 
