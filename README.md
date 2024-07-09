@@ -32,19 +32,22 @@
 
 #### 🛠 &nbsp; Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://flutter.dev" ><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" height="40" /> </code>
-
-<code> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" /></code>
 
 
+#### backend
 <code><img  height="100" alt="Java"  src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
-<code><img  height="100" alt="spring boot"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png"></code>
+<code><img  height="100" alt="spring boot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" /></code>
+
+
+#### web3
+
+<code> <img src="https://s3.coinmarketcap.com/static-gravity/image/5cc0b99a8dd84fbfa4e150d84b5531f2.png" alt="solana-logo" height="40" /> </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/480px-Rust_programming_language_black_logo.svg.png" alt="Solidity" height="40" /></code>
+<code> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" /></code> 
+
 
 
 
