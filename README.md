@@ -45,7 +45,6 @@
 #### web3
 
 <code> <img src="https://s3.coinmarketcap.com/static-gravity/image/5cc0b99a8dd84fbfa4e150d84b5531f2.png" alt="solana-logo" height="40" /> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/480px-Rust_programming_language_black_logo.svg.png" alt="Solidity" height="40" /></code>
 <code> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="40" /></code> 
 
 
