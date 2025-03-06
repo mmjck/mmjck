@@ -27,6 +27,7 @@
 
 - :computer: &nbsp; **Software Engineer**.
 - 🎓 &nbsp; Graduate in Software Engineering at UFAM (Federal University of Amazonas).
+- &nbsp; Working with React Native, Flutter and Koltin (Android)
 
 ---
 
